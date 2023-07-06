@@ -1,0 +1,50 @@
+{
+ "name": "Wafiy ST | Berbagi informasi tutorial",
+ "short_name": "Wafiy ST",
+ "description": "Wafiy ST adalah media platform yang memberikan informasi tutorial, tips dan trik tentang gadget dan teknologi.",
+ "lang": "id",
+ "dir": "ltr",
+ "theme_color": "Warna Address Bar (Hex #fff)",
+ "start_url": "https://www.wafiy.site",
+ "background_color": "Warna Background (Hex #fff)",
+ "display": "standalone",
+ "orientation": "portrait-primary",
+ "version": "1.0.0",
+ "author": "Wafiy ST",
+ "icons": [{
+    "src": "https://github.com/wafiyst/icon/blob/main/android-icon-36x36.png",
+    "sizes": "36x36",
+    "type": "image/png",
+    "density": "0.75"
+  }, {
+    "src": "https://github.com/wafiyst/icon/blob/main/android-icon-48x48.png",
+    "sizes": "48x48",
+    "type": "image/png",
+    "density": "1.0"
+  }, {
+    "src": "https://github.com/wafiyst/icon/blob/main/android-icon-72x72.png",
+    "sizes": "72x72",
+    "type": "image/png",
+    "density": "1.5"
+  }, {
+    "src": "https://github.com/wafiyst/icon/blob/main/android-icon-96x96.png",
+    "sizes": "96x96",
+    "type": "image/png",
+    "density": "2.0"
+  }, {
+    "src": "https://github.com/wafiyst/icon/blob/main/android-icon-144x144.png",
+    "sizes": "144x144",
+    "type": "image/png",
+    "density": "3.0"
+  }, {
+    "src": "https://github.com/wafiyst/icon/blob/main/android-icon-192x192.png",
+    "sizes": "192x192",
+    "type": "image/png",
+    "density": "4.0"
+  }, {
+    "src": "https://github.com/wafiyst/icon/blob/main/android-chrome-512x512.png",
+    "sizes": "512x512",
+    "type": "image/png",
+    "density": "5.0"
+  }]
+}
